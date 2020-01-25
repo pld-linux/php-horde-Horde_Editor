@@ -3,7 +3,6 @@
 # - system ckeditor
 %define		status		stable
 %define		pearname	Horde_Editor
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Editor API
 Name:		php-horde-Horde_Editor
 Version:	1.0.0
